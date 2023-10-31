@@ -1,6 +1,32 @@
 export const metadata = {
-  title: 'OSSAdmiral - Recruit System',
-  description: 'Open Source Recruitment System for Corporate Business',
+    title: 'OSSAdmiral - Recruit System',
+    description: 'Open Source Recruitment System for Corporate Business',
+    applicationName:"OSSAdmiral - Recruit System",
+    keywords: ["Open Source recruitment system", 'Free Recruitment System', 'ATS System Free', 'Free ATS System', 'Laravel Recruit System'],
+    creator: "Josie Darang",
+    authors: [{name: 'Josie Darang', url: 'https://github.com/MarJose123'}],
+    robots: "noinxdex, follow",
+    openGraph: {
+        title: 'OSSAdmiral - Recruit System',
+        description: 'Open Source Recruitment System for Corporate Business',
+        url: 'https://github.com/OSSAdmiral/Recruit',
+        siteName: 'OSSAdmiral - Recruit System',
+        images: [
+            {
+                url: 'https://github.com/OSSAdmiral/.github/blob/2f90ca4ecd6af4f77b8dc12bdc172cc14bc37e03/Profile/Admiral%20(OSS)%20%20743x360.png',
+                width: 743,
+                height: 360,
+            },
+            {
+                url: 'https://github.com/OSSAdmiral/.github/blob/2f90ca4ecd6af4f77b8dc12bdc172cc14bc37e03/Profile/Admiral%20(OSS)%20%20615x377.png',
+                width: 615,
+                height: 377,
+                alt: 'OSS Admiral',
+            },
+        ],
+        locale: 'en_US',
+        type: 'website',
+    },
 }
 
 import Hero from '@/components/hero'
