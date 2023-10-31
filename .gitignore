@@ -37,3 +37,7 @@ next-env.d.ts
 
 # contentlayer
 .contentlayer
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/recruit-landing-page-promotion.iml
+/.idea/vcs.xml
