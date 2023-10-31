@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'OSSAdmiral - Recruit System',
+  description: 'Recruitment system, ATS System, Corporate Recruitment System, Open Source Recruitment System',
 }
 
 import Hero from '@/components/hero'
