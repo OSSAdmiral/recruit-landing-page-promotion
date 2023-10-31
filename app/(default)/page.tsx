@@ -48,14 +48,7 @@ export const metadata: Metadata = {
                 width: 743,
                 height: 360,
                 type: 'image/png',
-            },
-            {
-                url: 'https://ossadmiral-recruit.netlify.app/Admiral(OSS)-1200x630.png',
-                width: 615,
-                height: 377,
-                type: 'image/png',
-                alt: 'OSS Admiral',
-            },
+            }
         ],
         locale: 'en_US',
         type: 'website',
