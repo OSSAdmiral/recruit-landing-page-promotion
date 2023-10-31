@@ -38,7 +38,7 @@ export const metadata = {
     openGraph: {
         title: 'OSSAdmiral - Recruit System',
         description: 'Open Source Recruitment System for Corporate Business',
-        url: 'https://github.com/OSSAdmiral/Recruit',
+        url: 'https://ossadmiral-recruit.netlify.app',
         siteName: 'OSSAdmiral - Recruit System',
         images: [
             {
