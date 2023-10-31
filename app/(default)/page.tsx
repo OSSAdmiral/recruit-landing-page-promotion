@@ -1,4 +1,6 @@
-export const metadata = {
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
     title: 'OSSAdmiral - Recruit System',
     description: 'Open Source Recruitment System for Corporate Business',
     applicationName:"OSSAdmiral - Recruit System",
@@ -45,7 +47,15 @@ export const metadata = {
                 url: 'https://ossadmiral-recruit.netlify.app/Admiral(OSS)-1200x630.png',
                 width: 743,
                 height: 360,
-            }
+                type: 'image/png',
+            },
+            {
+                url: 'https://ossadmiral-recruit.netlify.app/Admiral(OSS)-1200x630.png',
+                width: 615,
+                height: 377,
+                type: 'image/png',
+                alt: 'OSS Admiral',
+            },
         ],
         locale: 'en_US',
         type: 'website',
