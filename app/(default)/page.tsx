@@ -42,12 +42,12 @@ export const metadata = {
         siteName: 'OSSAdmiral - Recruit System',
         images: [
             {
-                url: 'https://github.com/OSSAdmiral/.github/blob/2f90ca4ecd6af4f77b8dc12bdc172cc14bc37e03/Profile/Admiral%20(OSS)%20%20743x360.png',
+                url: 'https://github.com/OSSAdmiral/.github/blob/10f869293d14f818493150c27e98a10dd38baad4/Profile/Admiral(OSS)-743x360.png',
                 width: 743,
                 height: 360,
             },
             {
-                url: 'https://github.com/OSSAdmiral/.github/blob/2f90ca4ecd6af4f77b8dc12bdc172cc14bc37e03/Profile/Admiral%20(OSS)%20%20615x377.png',
+                url: 'https://github.com/OSSAdmiral/.github/blob/10f869293d14f818493150c27e98a10dd38baad4/Profile/Admiral(OSS)-615x377.png',
                 width: 615,
                 height: 377,
                 alt: 'OSS Admiral',
