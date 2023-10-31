@@ -42,12 +42,12 @@ export const metadata = {
         siteName: 'OSSAdmiral - Recruit System',
         images: [
             {
-                url: '/Admiral(OSS)-743x360.png',
+                url: 'https://ossadmiral-recruit.netlify.app/Admiral(OSS)-743x360.png',
                 width: 743,
                 height: 360,
             },
             {
-                url: '/Admiral(OSS)-615x377.png',
+                url: 'https://ossadmiral-recruit.netlify.app/Admiral(OSS)-615x377.png',
                 width: 615,
                 height: 377,
                 alt: 'OSS Admiral',
