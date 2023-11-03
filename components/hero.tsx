@@ -34,8 +34,8 @@ export default function Hero() {
                 </a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://github.com/OSSAdmiral/Recruit">
-                 <FaBookOpen size={25} style={{marginRight: "1rem"}}/> Learn more
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://oss-admiral.gitbook.io/recruit/">
+                 <FaBookOpen size={25} style={{marginRight: "1rem"}}/> Documentation
                 </a>
               </div>
             </div>
